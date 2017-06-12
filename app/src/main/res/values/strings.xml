@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopupView</string>
+
+    <string name="pop_up_view">Pop Up View</string>
+    <string name="Toast">Toast</string>
+
+    <string name="ok">PopupView Ok</string>
+    <string name="close">PopupView close</string>
+
+
+</resources>
